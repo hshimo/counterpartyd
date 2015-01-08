@@ -1,4 +1,6 @@
 ## Client Versions ##
+* v9.50.0 (???)
+	* disable rock‐paper‐scissors (protocol change: ???)
 * v9.49.4 (???)
 	* introduction of global `CURRENT_BLOCK_INDEX`
 	* moved API docs to wiki
